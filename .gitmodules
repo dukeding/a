@@ -1,0 +1,6 @@
+[submodule "b"]
+	path = b
+	url = git@github.com:dukeding/b.git
+[submodule "c"]
+	path = c
+	url = git@github.com:dukeding/c.git
